@@ -1,0 +1,9 @@
+- args:
+    permission:
+      columns:
+      - id
+      - tax
+      filter: {}
+    role: user
+    table: gst_tax
+  type: create_select_permission

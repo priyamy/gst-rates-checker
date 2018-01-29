@@ -1,0 +1,7 @@
+- args:
+    sql: CREATE TABLE "gst_rate_checker"("name" text NOT NULL, "gst" text NOT NULL,
+      PRIMARY KEY ("name") )
+  type: run_sql
+- args:
+    name: gst_rate_checker
+  type: add_existing_table_or_view

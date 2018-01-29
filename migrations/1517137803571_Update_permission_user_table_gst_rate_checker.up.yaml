@@ -1,0 +1,9 @@
+- args:
+    permission:
+      columns:
+      - name
+      - gst
+      filter: {}
+    role: user
+    table: gst_rate_checker
+  type: create_select_permission

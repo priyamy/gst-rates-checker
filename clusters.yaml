@@ -1,0 +1,7 @@
+- alias: hasura
+  config:
+    configmap: controller-conf
+    namespace: abscess10-hasura
+  data: null
+  kubeContext: abscess10
+  name: abscess10

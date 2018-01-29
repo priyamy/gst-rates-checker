@@ -1,0 +1,3 @@
+- args:
+    sql: DROP TABLE "gst_tax"
+  type: run_sql

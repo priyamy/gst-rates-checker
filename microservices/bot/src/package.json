@@ -1,0 +1,19 @@
+{
+  "name": "quickstart-docker-express-example",
+  "version": "1.0.0",
+  "description": "Demo to show git push build and deploy",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^5.8.23",
+    "body-parser": "^1.17.2",
+    "express": "^4.14.0",
+    "node-fetch": "^1.7.3",
+    "rx": "^3.1.2",
+    "slack-client": "^1.4.1",
+    "underscore": "^1.8.3"
+  }
+}

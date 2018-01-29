@@ -1,0 +1,7 @@
+- args:
+    sql: CREATE TABLE "gst_tax"("id" integer NOT NULL, "tax" integer , PRIMARY KEY
+      ("id") )
+  type: run_sql
+- args:
+    name: gst_tax
+  type: add_existing_table_or_view

@@ -1,0 +1,35 @@
+- args:
+    sql: "INSERT INTO gst_rate_checker (name,gst) VALUES\r\n('fish fillet','5%'),\r\n('apparel
+      below Rs 1000','5%'),\r\n('packaged food items','5%'),\r\n('footwear below Rs
+      500','5%'),\r\n('cream','5%'),\r\n('skimmed milk powder','5%'),\r\n('branded
+      paneer','5%'),\r\n('frozen vegetables','5%'),\r\n('coffee','5%'),\r\n('tea','5%'),\r\n('spices','5%'),\r\n('pizza
+      bread','5%'),\r\n('rusk','5%'),\r\n('sabudana','5%'),\r\n('kerosene','5%'),\r\n('coal','5%'),\r\n('medicines','5%'),\r\n('stent','5%'),\r\n('lifeboats','5%'),\r\n('cashew
+      nut','5%'),\r\n('cashew nut in shell','5%'),\r\n('raisin','5%'),\r\n('ice','5%'),\r\n('snow','5%'),\r\n('bio
+      gas','5%'),\r\n('insulin','5%'),\r\n('agarbatti','5%'),\r\n('kites','5%'),\r\n('postage
+      stamps','5%'),\r\n('revenue stamps','5%'),\r\n('stamp-post marks','5%'),\r\n('first-day
+      covers','5%'),\r\n('branded food','5%'),\r\n('walnuts','5%'),\r\n('dried tamarind','5%'),\r\n('roasted
+      gram','5%'),\r\n('dhoop batti','5%'),\r\n('corduroy fabric','5%'),\r\n('saree
+      fall','5%'), \r\n('paper mache items','5%'),\r\n('oil cakes','5%'),\r\n('duty
+      credit scrips','5%'),\r\n('cotton quilts below Rs 1000 per piece','5%'),\r\n('corals','5%'),\r\n('rosaries
+      and prayer beads','5%'),\r\n('hawan samagri','5%'),\r\n('grass','5%'),\r\n('leaf
+      and reed','5%'),\r\n('fibre products','5%'),\r\n('mats','5%'),\r\n('pouches','5%'),\r\n('wallets','5%'),\r\n('mangoes
+      sliced dried','5%'),\r\n('khakra','5%'),\r\n('plain chapati','5%'),\r\n('plain
+      roti','5%'),\r\n('branded Namkeens','5%'),\r\n('ayurvedic','5%'),\r\n('unani','5%'),\r\n('siddha','5%'),\r\n('homeopathy
+      medicines','5%'),\r\n('paper waste','5%'),\r\n('real zari','5%'),\r\n('plastic
+      waste','5%'),\r\n('rubber waste','5%'),\r\n('hard Rubber waste','5%'), \r\n('cullet','5%'),\r\n('e-Waste','5%'),\r\n('biomass
+      briquettes','5%'),\r\n('desiccated coconut','5%'),\r\n('narrow woven fabric','5%'),\r\n('idli
+      batter','5%'),\r\n('dosa batter','5%'),\r\n('finished leather','5%'),\r\n('chamois
+      and composition leather','5%'),\r\n('coir cordage and ropes','5%'),\r\n('jute
+      twine','5%'),\r\n('coir products','5%'),\r\n('fishing net','5%'),\r\n('fishing
+      hooks','5%'),\r\n('worn clothing','5%'),\r\n('fly ash brick','5%'),\r\n('aircraft
+      tyres','5%'),\r\n('puffed rice chikki','5%'),\r\n('flour of potatoes','5%'),\r\n('chutney
+      power','5%'),\r\n('fly sulphur recovered in refining crude','5%'),\r\n('fly
+      ash','5%'),\r\n('LPG supply to household domestic consumers by private LPG distributors','5%'),
+      \r\n('tailoring service','5%'), \r\n('tamarind kernel powder','5%'),\r\n('mehendi
+      paste in cones','5%'),\r\n('scientific and technical instruments','5%'), \r\n('basketware
+      and wickerwork','5%'), \r\n('velvet fabric','5%'), \r\n('cigarette filter rods','5%'),
+      \r\n('restaurants','5%'),\r\n('restaurants of hotels with room tariff of less
+      than Rs 7500','5%'),\r\n('food parcels','5%'),\r\n('textile job work','5%'),\r\n('transport
+      services','5%'),\r\n('railways','5%'),\r\n('air transport','5%'),\r\n('supply
+      of e-waste','5%');"
+  type: run_sql

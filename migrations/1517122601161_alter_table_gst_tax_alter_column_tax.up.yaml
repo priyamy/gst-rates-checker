@@ -1,0 +1,9 @@
+- args:
+    sql: ALTER TABLE "gst_tax" ALTER COLUMN "tax" TYPE text;
+  type: run_sql
+- args:
+    sql: ALTER TABLE "gst_tax" ALTER COLUMN "tax" DROP DEFAULT;
+  type: run_sql
+- args:
+    sql: ALTER TABLE "gst_tax" ALTER COLUMN "tax" DROP NOT NULL;
+  type: run_sql
